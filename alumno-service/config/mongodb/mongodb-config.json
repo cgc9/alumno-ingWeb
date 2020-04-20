@@ -1,0 +1,8 @@
+{
+    "mongodb": {
+      "server": "localhost:32768",
+      "database": "alumno_db_dev",
+      "user": null,
+      "password": null
+    }
+  }
