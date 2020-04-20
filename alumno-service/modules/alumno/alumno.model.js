@@ -27,9 +27,7 @@
         grade :{
             type: Number,
             required:true
-        },
-        city: String,
-        country: String
+        }
     });
 
     module.exports = mongoose.model('alumnos', AlumnoSchema);
